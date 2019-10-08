@@ -3,12 +3,12 @@
 
 
   <div class="myinfo" ng-if="myInfoCtrl.saved">
-    <div class="panel panel-info">
-      <div class="panel-body">First Name: {{myInfoCtrl.userInfo.firstName}}</div>
-      <div class="panel-body">Last Name: {{myInfoCtrl.userInfo.lastName}}</div>
-      <div class="panel-body">Email: {{myInfoCtrl.userInfo.emailAddress}}</div>
-      <div class="panel-body">Phone: {{myInfoCtrl.userInfo.phoneNumber}}</div>
-      <div class="panel-body">Favorite Dish: {{myInfoCtrl.userInfo.favoriteDish}}</div>
+    <div class="container">
+      <p>First Name: {{myInfoCtrl.userInfo.firstName}}</p>
+      <p>Last Name: {{myInfoCtrl.userInfo.lastName}}</p>
+      <p>Email: {{myInfoCtrl.userInfo.emailAddress}}</p>
+      <p>Phone: {{myInfoCtrl.userInfo.phoneNumber}}</p>
+      <p>Favorite Dish: {{myInfoCtrl.userInfo.favoriteDish}}</p>
     </div>
     <div class="myinfo-dish">
       <menu-item menu-item="myInfoCtrl.userInfo.MenuItem"></menu-item>
