@@ -113,7 +113,6 @@ h3.menu-item-title {
   font-style: italic;
 }
 
-
 /* END SINGLE CATEGORY PAGE */
 
 /* SIGN UP PAGE */
@@ -121,6 +120,9 @@ h3.menu-item-title {
 /* END SIGN UP PAGE */
 
 /* MY INFO PAGE */
+#myinfo {
+  height: 45rem;
+}
 
 /* END MY INFO PAGE */
 
