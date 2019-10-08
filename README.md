@@ -1,9 +1,9 @@
 Module 5 Coding Assignment
 =======
 
-[View Site Live on Heroku](https://mysterious-eyrie-18795.herokuapp.com/index.html#/)
+[View Frontend via Github Pages](https://jlollis.github.io/course5-module5/)
 
-[Frontend via Github Pages](https://jlollis.github.io/course5-module5/)
+[View Backend Site Live on Heroku](https://mysterious-eyrie-18795.herokuapp.com/index.html#/)
 
 **It's coding time! Woohoo!!!**
 
