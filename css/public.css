@@ -48,6 +48,12 @@
 
 /* END HOME PAGE */
 
+/* MY INFO PAGE */
+#myinfo {
+  height: 45rem;
+}
+/* END MY INFO PAGE */
+
 /* MENU CATEGORIES PAGE */
 .category-tile {
   position: relative;
