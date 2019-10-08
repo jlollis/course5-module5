@@ -39,7 +39,7 @@
     <div class="form-group">
       <label for="favoriteDish">Favorite Dish</label>
       <input type="text" class="form-control" id="favoriteDish" name="favoriteDish"
-        placeholder="menu short code for favorite dish" ng-model="signupCtrl.userInfo.favoriteDish"
+        placeholder="short code for favorite dish" ng-model="signupCtrl.userInfo.favoriteDish"
         ng-blur="signupCtrl.validateFavdish()">
       <span ng-if="signupCtrl.itemSearched && !signupCtrl.validShortCode">
         <small>Matching menu short code not found.</small>
