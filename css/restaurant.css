@@ -119,6 +119,16 @@ a[ui-sref="admin.auth"] {
 }
 /* END FOOTER */
 
+/* SIGN UP FORM */
+.ng-touched.ng-valid {
+  border: 2px green solid;
+}
+
+.ng-touched.ng-invalid {
+  border: 2px red solid;
+}
+/* END SIGN UP FORM */
+
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
